@@ -12,12 +12,15 @@
   "activationEvents": [],
   "main": "./out/extension.js",
   "contributes": {
-    "commands": [
-      {
-        "command": "home-now.helloWorld",
-        "title": "Hello World"
-      }
-    ]
+    "views": {
+      "explorer": [
+        {
+          "type": "webview",
+          "id": "homeNowView",
+          "name": "Bring Them Home Now"
+        }
+      ]
+    }
   },
   "scripts": {
     "vscode:prepublish": "npm run compile",
