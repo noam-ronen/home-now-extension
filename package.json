@@ -1,5 +1,6 @@
 {
   "name": "home-now",
+  "publisher": "BringThemHome",
   "displayName": "Home Now",
   "description": "Adds a clock counting the time that has passed since hundreds of people were taken hostage by Hamas. Bring Them Home Now!",
   "version": "0.0.1",
