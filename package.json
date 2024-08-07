@@ -3,6 +3,7 @@
   "publisher": "BringThemHome",
   "displayName": "Home Now",
   "description": "Adds a clock counting the time that has passed since hundreds of people were taken hostage by Hamas. Bring Them Home Now!",
+  "repository": "https://github.com/noam-ronen/home-now-extension",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.92.0"
